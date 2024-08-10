@@ -36,7 +36,7 @@ Order Express hub is an app that is developed to take orders and manage them tro
    ```
 2. There is no need start any server for database since we are using sqlite it is a serverless databse which makes it easier to setup so no commands for that are included it is bundled in with ther server.
 
-3. Open a new terminal or commandprompt at the root of the project repository and navigate to order express hub ui folder and runn yarn with yarn deployement commands those are listed below:
+3. Open a new terminal or command-prompt at the root of the project repository and navigate to order express hub ui folder and run yarn with yarn deployment commands those are listed below:
    ```bash
    cd OrderExpressHub-UI
    yarn
